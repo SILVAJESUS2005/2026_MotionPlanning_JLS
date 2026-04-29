@@ -24,3 +24,5 @@ Este repositorio contiene el código fuente para el diseño, simulación e imple
 
 ## 📝 Autores y Referencias
 Proyecto desarrollado basándose en la teoría de algoritmos de planificación de Steve M. LaValle (*Planning Algorithms*) y J.P. Laumond.
+Asesor: Dr. Francisco Javier Montecillo Puente  
+Materia: Planificación de movimientos
